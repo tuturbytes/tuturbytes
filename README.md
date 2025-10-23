@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/@TuturBytes"><img src="https://img.shields.io/badge/YouTube-%40TuturBytes-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://tutur-bytes-f76f30.ingress-comporellon.ewp.live/"><img src="https://img.shields.io/badge/🌐_Website-Tutur_Bytes-blue?style=for-the-badge&logo=google-chrome" /></a>
   <a href="https://instagram.com/tuturbytes"><img src="https://img.shields.io/badge/Instagram-@tuturbytes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:tuturbytes@gmail.com"><img src="https://img.shields.io/badge/Email-tuturbytes%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:info.tuturbytes@gmail.com"><img src="https://img.shields.io/badge/Email-tuturbytes%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
